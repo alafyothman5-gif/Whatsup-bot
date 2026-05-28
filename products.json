@@ -1,0 +1,44 @@
+[
+  {
+    "id": "panadol_500",
+    "category": "مسكنات",
+    "name": "Panadol 500mg",
+    "price": "الشريط: 8 د.ل | العلبة: 16 د.ل",
+    "price_strip": "8 د.ل",
+    "price_box": "16 د.ل",
+    "strips_count": "12",
+    "stock": "متوفر",
+    "quantity": "20",
+    "expiry_date": "2027-05",
+    "notes": "",
+    "aliases": ["panadol", "بندول", "بانادول", "paracetamol", "باراسيتامول"]
+  },
+  {
+    "id": "augmentin_1g",
+    "category": "مضادات حيوية",
+    "name": "Augmentin 1g",
+    "price": "35 د.ل",
+    "price_strip": "",
+    "price_box": "35 د.ل",
+    "strips_count": "",
+    "stock": "متوفر",
+    "quantity": "10",
+    "expiry_date": "2026-12",
+    "notes": "",
+    "aliases": ["augmentin", "اوجمنتين", "اموكسكلاف", "amoxiclav"]
+  },
+  {
+    "id": "brufen_400",
+    "category": "مسكنات",
+    "name": "Brufen 400mg",
+    "price": "18 د.ل",
+    "price_strip": "",
+    "price_box": "18 د.ل",
+    "strips_count": "",
+    "stock": "غير متوفر",
+    "quantity": "0",
+    "expiry_date": "",
+    "notes": "",
+    "aliases": ["brufen", "بروفين", "بروفن", "ibuprofen", "ايبوبروفين"]
+  }
+]
