@@ -1,0 +1,40 @@
+{
+  "source": "WaselBot Scanner Test",
+  "client_id": "badr_pharmacy_test",
+  "mode": "replace",
+  "products": [
+    {
+      "id": "congestal_box",
+      "category": "أدوية برد",
+      "name": "Congestal",
+      "barcode": "622300000001",
+      "price_strip": "5 د.ل",
+      "price_box": "30 د.ل",
+      "strips_count": "6",
+      "quantity": "20",
+      "expiry_date": "2027-05",
+      "aliases": ["congestal", "كونجستال", "كونجستال اقراص"]
+    },
+    {
+      "id": "panadol_500",
+      "category": "مسكنات",
+      "name": "Panadol 500mg",
+      "barcode": "622300000002",
+      "price_strip": "8 د.ل",
+      "price_box": "16 د.ل",
+      "strips_count": "12",
+      "quantity": "50",
+      "expiry_date": "2027-12",
+      "aliases": ["panadol", "بانادول", "بندول", "paracetamol", "باراسيتامول"]
+    },
+    {
+      "id": "brufen_400",
+      "category": "مسكنات",
+      "name": "Brufen 400mg",
+      "price_box": "18 د.ل",
+      "quantity": "0",
+      "expiry_date": "",
+      "aliases": ["brufen", "بروفين", "ibuprofen", "ايبوبروفين"]
+    }
+  ]
+}

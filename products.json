@@ -1,0 +1,70 @@
+[
+  {
+    "id": "congestal_box",
+    "category": "أدوية برد",
+    "name": "Congestal",
+    "barcode": "622300000001",
+    "manufacturer": "",
+    "price": "الشريط: 5 د.ل | العلبة: 30 د.ل",
+    "price_strip": "5 د.ل",
+    "price_box": "30 د.ل",
+    "strips_count": "6",
+    "stock": "متوفر",
+    "quantity": "20",
+    "expiry_date": "2027-05",
+    "notes": "",
+    "aliases": [
+      "Congestal",
+      "congestal",
+      "كونجستال",
+      "كونجستال اقراص",
+      "622300000001"
+    ]
+  },
+  {
+    "id": "panadol_500",
+    "category": "مسكنات",
+    "name": "Panadol 500mg",
+    "barcode": "622300000002",
+    "manufacturer": "",
+    "price": "الشريط: 8 د.ل | العلبة: 16 د.ل",
+    "price_strip": "8 د.ل",
+    "price_box": "16 د.ل",
+    "strips_count": "12",
+    "stock": "متوفر",
+    "quantity": "50",
+    "expiry_date": "2027-12",
+    "notes": "",
+    "aliases": [
+      "Panadol 500mg",
+      "panadol",
+      "بانادول",
+      "بندول",
+      "paracetamol",
+      "باراسيتامول",
+      "622300000002"
+    ]
+  },
+  {
+    "id": "brufen_400",
+    "category": "مسكنات",
+    "name": "Brufen 400mg",
+    "barcode": "",
+    "manufacturer": "",
+    "price": "العلبة: 18 د.ل",
+    "price_strip": "",
+    "price_box": "18 د.ل",
+    "strips_count": "",
+    "stock": "غير متوفر",
+    "quantity": "0",
+    "expiry_date": "",
+    "notes": "",
+    "aliases": [
+      "Brufen 400mg",
+      "brufen",
+      "بروفين",
+      "ibuprofen",
+      "ايبوبروفين"
+    ]
+  }
+]
